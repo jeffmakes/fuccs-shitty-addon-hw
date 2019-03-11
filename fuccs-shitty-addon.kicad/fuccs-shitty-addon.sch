@@ -228,7 +228,7 @@ L MCU_Microchip_ATtiny:ATtiny85-20SU U1
 U 1 1 5C722433
 P 5700 3650
 F 0 "U1" H 5170 3696 50  0000 R CNN
-F 1 "ATtiny85-20SU" H 5170 3605 50  0000 R CNN
+F 1 "ATtiny85-20SUR" H 5170 3605 50  0000 R CNN
 F 2 "Housings_SOIC:SOIJ-8_5.3x5.3mm_Pitch1.27mm" H 5700 3650 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf" H 5700 3650 50  0001 C CNN
 	1    5700 3650
@@ -249,17 +249,17 @@ Wire Wire Line
 Wire Wire Line
 	8650 3050 8650 3400
 Wire Wire Line
-	8750 3400 8750 2950
+	8750 3400 8750 3050
 Text Label 8750 3400 1    50   ~ 0
 SDA_MOSI
 Wire Wire Line
-	8550 3400 8550 2950
+	8550 3400 8550 3200
 Wire Wire Line
-	8750 3900 8750 4350
+	8750 3900 8750 4250
 Text Label 8750 4250 1    50   ~ 0
 SCL_SCK
 Wire Wire Line
-	8550 3900 8550 4350
+	8550 3900 8550 4250
 Text Label 8550 4250 1    50   ~ 0
 ~RESET~
 Text Label 8550 3400 1    50   ~ 0
