@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name fuccs-shitty-addon-footprints)(type KiCad)(uri ${KIPRJMOD}/libs/fuccs-shitty-addon-footprints.pretty)(options "")(descr ""))
+)
