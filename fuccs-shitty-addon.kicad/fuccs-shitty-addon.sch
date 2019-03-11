@@ -19,7 +19,7 @@ U 1 1 5C7178BD
 P 8650 3600
 F 0 "J1" H 8700 3917 50  0000 C CNN
 F 1 "Shitty Addon + ISP" H 8700 3826 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm_SMD" H 8650 3600 50  0001 C CNN
+F 2 "fuccs-shitty-addon-footprints:Pin_Header_Straight_2x03_Pitch2.54mm_SMD_no-silk" H 8650 3600 50  0001 C CNN
 F 3 "~" H 8650 3600 50  0001 C CNN
 	1    8650 3600
 	0    -1   1    0   
